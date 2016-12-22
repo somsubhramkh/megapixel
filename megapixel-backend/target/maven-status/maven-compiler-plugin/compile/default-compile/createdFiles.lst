@@ -1,0 +1,15 @@
+com\niit\megapixel\backend\config\AppContextConfig.class
+com\niit\megapixel\backend\dao\CartDAO.class
+com\niit\megapixel\backend\App.class
+com\niit\megapixel\backend\dao\ProductDAOImpl.class
+com\niit\megapixel\backend\model\Item.class
+com\niit\megapixel\backend\model\User.class
+com\niit\megapixel\backend\model\Product.class
+com\niit\megapixel\backend\dao\UserDAO.class
+com\niit\megapixel\backend\model\Cart.class
+com\niit\megapixel\backend\dao\CartDAOImpl.class
+com\niit\megapixel\backend\dao\ProductDAO.class
+com\niit\megapixel\backend\model\UserOrder.class
+com\niit\megapixel\backend\dao\ItemDAO.class
+com\niit\megapixel\backend\dao\ItemDAOImpl.class
+com\niit\megapixel\backend\dao\UserDAOImpl.class
